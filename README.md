@@ -1,6 +1,6 @@
 ## Trying to get Machine Learning before it get me.
 
-- 🔭 I’m currently working on rebuilding my frontend repos as one collective monorepo with turborepo and machine learning.
+- 🔭 I’m currently working on rebuilding my front-end repos as one collective monorepo with turborepo and machine learning.
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on any and everything.
 - 💬 Ask me about anything, I'm an open book.
