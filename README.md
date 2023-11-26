@@ -1,4 +1,4 @@
-## Trying to get Machine Learning before it get me.
+## Trying to get Machine Learning before it gets me.
 
 - 🔭 I’m currently working on rebuilding my front-end repos as one collective monorepo with turborepo and machine learning.
 - 🌱 I’m currently learning Golang.
