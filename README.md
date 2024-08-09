@@ -5,7 +5,7 @@
 - 💬 Ask me about anything, I'm an open book.
 - 📫 Reach my at [my email](ellishogan95@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ellis-hogan-99a646161/)
 
-### I'm Going "All In' on the Mono-Repo Architecture 
+### I'm Going "All In" on the Mono-Repo Architecture 
 #### TLDR;
 Tech-debt sucks, so I'm moving all my smaller projects over to [my monorepo](https://www.github.com/icarus612/daedalus-mono), and cleaning out my old repos, so that I only have projects I plan on maintaining.
 #### The Full Story
