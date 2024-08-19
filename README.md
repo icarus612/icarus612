@@ -15,7 +15,7 @@ The goal of all of this centers around these 3 things in particular:
 
 1. It will take the weight off of repos, and github. I think the professional world places a lot of (sometimes overhyped) value in repos and github.
 2. I will feel more comfortable starting new projects and trying/testing new things and ideas without really caring if they end up working or not.
-3. It will help seperate the "hobbyist" and "professional" code in my repos, and make it clearer which projects I'm taking seriously verses the ones started on a whim.
+3. It will help seperate the "hobbyist" and "professional" code in my repos, and make it clearer which projects I'm taking seriously verse the ones started on a whim.
 
 I feel like I am entering a new phase of my software development journey, and I would like to make software that others want to use. Libraries that could actually be useful to other devs, while still having a free space to do whatever and not lose the work I care about. 
 
