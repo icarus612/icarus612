@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning reinforcment learning with open AI gym.
 - 👯 I’m looking to collaborate on any and everything.
 - 💬 Ask me about anything, I'm an open book.
-- 📫 Reach my at [my email](devicarus64@gmail.com)
+- 📫 Reach my via <a href="mailto:devicarus64@gmail.com">email</a>.
 
 ### I'm Going "All In" on the Mono-Repo Architecture 
 #### TLDR;
